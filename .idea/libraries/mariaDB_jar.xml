@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="mariaDB-jar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Desktop/mariaDB-jar" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$USER_HOME$/Desktop/mariaDB-jar" recursive="false" />
+  </library>
+</component>
